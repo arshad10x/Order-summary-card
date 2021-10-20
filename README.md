@@ -1,5 +1,5 @@
 # Frontend Mentor - Order summary card
-
-![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
+[🛰️live site URL-]
+(https://arshad10x.github.io/order-summary-card/)
 
 
